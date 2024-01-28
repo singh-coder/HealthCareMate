@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqIB3oI9QiwKvZPUrQB79OXynyKQIy60RiiZtgURMZZI3lnNiuCEfdbQw1CzHCumxfl5+OUtkAqSB6UlQxRy4A==",
+  "success": true,
+  "projectFilePath": "/Users/ashutosh/Projects/APIs/HealthCareMate/Presentation/HealthCareMate.API/HealthCareMate.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/ashutosh/.nuget/packages/microsoft.aspnetcore.openapi/7.0.15/microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ashutosh/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

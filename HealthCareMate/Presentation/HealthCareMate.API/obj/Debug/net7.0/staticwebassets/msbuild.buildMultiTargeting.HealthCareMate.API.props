@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HealthCareMate.API.props" />
+</Project>
